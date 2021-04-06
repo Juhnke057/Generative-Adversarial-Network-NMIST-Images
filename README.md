@@ -1,5 +1,5 @@
 # Generative-Adversarial-Network-NMIST-Images
-This needs a images map and a models map in the same map and as the project
+This needs a images map and a models map in the project!
 
 Here are my examples epoch 1-5
 ![gan_generated_epoch_10](https://user-images.githubusercontent.com/57365322/113627953-7fcd7780-9664-11eb-942e-52d2fcbc8c62.png)
